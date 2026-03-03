@@ -4,7 +4,7 @@
 
 **A performance-focused Magisk module engineered to unlock advanced AI capabilities and flagship software features on mid-range Galaxy A-series devices.**
 
-[![Release](https://img.shields.io/badge/Version-2.4-0072de?style=flat-square)](https://aionix.synthenis.com)
+[![Release](https://img.shields.io/badge/Version-2.2-0072de?style=flat-square)](https://aionix.synthenis.com)
 [![Platform](https://img.shields.io/badge/Platform-Galaxy%20A15%20%7C%20A24-555?style=flat-square)](https://aionix.synthenis.com)
 [![License](https://img.shields.io/badge/License-GPL%20v3-0072de?style=flat-square)](LICENSE)
 [![XDA](https://img.shields.io/badge/XDA-Forums-555?style=flat-square)](https://xdaforums.com/t/magisk-module-a155f-a155m-aod-wallpaper-project-aionix.4715731/)
@@ -147,7 +147,7 @@ This is an open-source project. Contributions, bug reports, and feature suggesti
 | Contributor | Contribution |
 |---|---|
 | [Ali Ömer](https://github.com/aliysnm) | Project Lead — Module Development and Architecture |
-| QuantumA / QuantumProjects | Live Blur UI Port |
+| [Quantum-A](https://github.com/Quantum-A-TR) | Live Blur UI Port |
 | ahmetqwa20 | Module Testing and Verification |
 | Magisk Team | OTA Update System Infrastructure |
 
