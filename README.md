@@ -51,7 +51,7 @@ The module includes a built-in OTA update mechanism, allowing seamless delivery 
 - Always On Display with wallpaper support
 - Live Blur UI — dynamic interface blur effects (ported by QuantumA)
 - HDR10+ video playback support
-- Ported launcher and animation system from flagship hardware
+- Changed animation system from flagship hardware
 
 ### Performance
 
@@ -65,20 +65,16 @@ The module includes a built-in OTA update mechanism, allowing seamless delivery 
 - Ported system applications updated to their latest versions
 - Now Brief widget support
 - Profile Card for the contacts application
-- OTA Update app with AMOLED Dark Theme
-- Vex Scanner integration
-- Built-in OTA updates accessible directly from the Magisk module entry
-
+- OTA Update App
 ---
 
 ## Supported Devices
 
 | Device | Model | Variant | Status |
 |---|---|---|---|
-| Samsung Galaxy A15 | SM-A155F / SM-A155M | 4G | ![Supported](https://img.shields.io/badge/-Supported-2ea44f?style=flat-square) |
-| Samsung Galaxy A15 | SM-A156M | 5G | ![Supported](https://img.shields.io/badge/-Supported-2ea44f?style=flat-square) |
+| Samsung Galaxy A15 | SM-A155F / SM-A155M | 4G | ![Fully Supported]([https://img.shields.io/badge/-Fully-Supported-2ea44f?style=flat-square](https://img.shields.io/badge/-Fully%20Supported-2ea44f?style=flat-square)) |
+| Samsung Galaxy A15 | SM-A156M | 5G | ![Half Supported](https://img.shields.io/badge/-Half--Supported-e3b341?style=flat-square) |
 | Samsung Galaxy A24 | SM-A245F | 4G | ![Half Supported](https://img.shields.io/badge/-Half--Supported-e3b341?style=flat-square) |
-| Samsung Galaxy A24 | SM-A246B | 5G | ![Unsupported](https://img.shields.io/badge/-Unsupported-cf222e?style=flat-square) |
 
 ---
 
