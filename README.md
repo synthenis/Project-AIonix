@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.synthenis.com/img/pasaProducts/aionixBanner0.png" alt="Project AIonix" width="100%">
+<img src="https://cdn.synthenis.com/img/pasaProducts/aionixBanner.png" alt="Project AIonix" width="100%">
 
 **A performance-focused Magisk module engineered to unlock advanced AI capabilities and flagship software features on mid-range Galaxy A-series devices.**
 
